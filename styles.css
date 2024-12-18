@@ -222,11 +222,15 @@ footer {
         text-align: center;
     }
 
-    .feature, .testimonial, .plan {
+    .feature, .testimonial {
         width: 100%;
         margin: 10px 0;
+    
     }
-
+    .plan{
+        width: 90%;
+        padding-right: 10px;;
+    }
     #nav-bar {
         flex-wrap: wrap;
         gap: 10px;
